@@ -1,4 +1,4 @@
-<h1 align="center">Hi There, </h1>![Hello](/assets/hello.gif)
+<h1 align="center">Hi There, ![Hello](/assets/hello.gif)</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
 <a align="center">
@@ -31,25 +31,25 @@ Found this ✨ _special_ ✨ place called coding
 🎉 My hobbies are listening to music, playing instruments (guitar, acoustic guitar,piano), watching some series and movies, exercising, searching for recipes, reading and taking care of plants.
 
 Using at the moment to study :heart::
-
+<h2 align="center">
 [RocketSeat](https://www.rocketseat.com.br) :rocket:
 
 [Educative](https://educative.com) :books: 
 
 [Odin Project](https://theodinproject.com) :tent:
-
-- 💬 Contact me for anything, i'm always happy to help :smile:
+</h2>
+- 💬 Contact me for anything, i'm always happy to help    :smile:
 
 <h1 align="center">
-- 📫 How to reach me: 
+                    📫 How to reach me: 
 </h1>
 
 
 
 
 <a align="center">
-<img alt="" src="assets/linkedin.svg" width="32px" height="32px"/>
-<img alt="" src="assets/twitter.svg" width="32px" height="32px"/>
+<img alt="" src="assets/linkedin.svg" width="24x" height="24px"></img>
+<img alt="" src="assets/twitter.svg" width="24px" height="24px"/></img>
 </a>
 
 
