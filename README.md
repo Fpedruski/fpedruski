@@ -1,6 +1,4 @@
-<align align="center">
-<img alt="Working" title="Desk" src="/assets/frame02.png" width="1240px" height="500" />
-</a>
+
 
 <h2 align="center">
  <img src="/assets/hello.gif" width="24" height="24"> Hi There, Forasteiro
@@ -10,10 +8,11 @@
 A passionate frontend developer from Brasil
 </h3>
 
-
-
 <h3 align="center">Pronouns: he/him</h3>
 
+<align align="center">
+<img alt="Working" title="Desk" src="/assets/frame01.png" width="1240px" height="500" />
+</a>
 
 
 <h1 align="center">
