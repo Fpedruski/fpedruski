@@ -58,20 +58,23 @@ Using at the moment to study :heart::
 <a href="https://www.linkedin.com/in/felipe-santos-poch-61226684/">
 <img alt="" src="assets/linkedin.svg" width="24x" height="24px"></img>
 </a>
-<p>" "</p>
+<p>  </p>
 <a href="https://twitter.com/Felipe-Pedruski">
 <img alt="" src="assets/twitter.svg" width="24px" height="24px"/></img>
 </a>
-<p>" "</p>
+<p>  </p>
 <a mailto="fpedruski@icloud.com">
-<img alt="" src="assets/mail.svg" width="24px" height="24px"/></img>
+<img alt="" src="assets/email.svg" width="24px" height="24px"/></img>
 </a>
 </span>
 </h3>
 
 
 
+<h1 align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpedruski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</h1>
 
 
