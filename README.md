@@ -1,5 +1,10 @@
-<h1 align="center">Hi There, ![Hello](/assets/hello.gif)</h1>
-<h3 align="center">A passionate frontend developer from Brasil</h3>
+<h1 align="center">
+Hi There, ![Hello](/assets/hello.gif)
+</h1>
+
+<h3 align="center">
+A passionate frontend developer from Brasil
+</h3>
 
 <a align="center">
   <img alt="Working" title="Desk" src="/assets/frame1.png" width="220px" />
@@ -32,6 +37,7 @@ Found this ✨ _special_ ✨ place called coding
 
 Using at the moment to study :heart::
 <h2 align="center">
+
 [RocketSeat](https://www.rocketseat.com.br) :rocket:
 
 [Educative](https://educative.com) :books: 
