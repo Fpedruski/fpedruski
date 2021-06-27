@@ -7,7 +7,7 @@ A passionate frontend developer from Brasil
 </h3>
 
 <align align="center">
-<img alt="Working" title="Desk" src="/assets/Frame1.png" width="700px" height="400" />
+<img alt="Working" title="Desk" src="/assets/Frame1.png" width="800px" height="400" />
 </a>
 
 <h3 align="center">Pronouns: he/him</h3>
@@ -58,14 +58,13 @@ Using at the moment to study :heart::
 <a href="https://www.linkedin.com/in/felipe-santos-poch-61226684/">
 <img alt="" src="assets/linkedin.svg" width="24x" height="24px"></img>
 </a>
-<p>  </p>
-<a href="https://twitter.com/Felipe-Pedruski">
-<img alt="" src="assets/twitter.svg" width="24px" height="24px"/></img>
-</a>
-<p>  </p>
 <a mailto="fpedruski@icloud.com">
 <img alt="" src="assets/email.svg" width="24px" height="24px"/></img>
 </a>
+<a href="https://twitter.com/Felipe-Pedruski">
+<img alt="" src="assets/twitter.svg" width="24px" height="24px"/></img>
+</a>
+
 </span>
 </h3>
 
