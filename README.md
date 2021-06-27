@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi There, ![Hello](/assets/hello.gif)
+Hi There, ![](./assets/hello.gif)
 </h1>
 
 <h3 align="center">
@@ -7,7 +7,7 @@ A passionate frontend developer from Brasil
 </h3>
 
 <a align="center">
-  <img alt="Working" title="Desk" src="/assets/frame1.png" width="220px">
+  <img alt="Working" title="Desk" src="./assets/frame1.png" width="220px">
 </img>
 </a>
 
@@ -55,10 +55,10 @@ Using at the moment to study :heart::
 
 
 
-<a align="center">
+<span align="center">
 <img alt="" src="assets/linkedin.svg" width="24x" height="24px"></img>
 <img alt="" src="assets/twitter.svg" width="24px" height="24px"/></img>
-</a>
+</span>
 
 
 
