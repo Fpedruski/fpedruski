@@ -29,7 +29,7 @@ Found this ✨ _special_ ✨ place called coding
 
 📚 I'm also planning to study P5, Processing and Drawing.
 
-:earth: I have experience in Graphic Design, Marketing and a lot of travel.
+:planet: I have experience in Graphic Design, Marketing and a lot of travel.
 
 💬 In addition to web development, science and technology, I like to talk about arts and culture, especially music, movies, painting, travel and books.
 
@@ -61,6 +61,10 @@ Using at the moment to study :heart::
 <p>" "</p>
 <a href="https://twitter.com/Felipe-Pedruski">
 <img alt="" src="assets/twitter.svg" width="24px" height="24px"/></img>
+</a>
+<p>" "</p>
+<a mailto="fpedruski@icloud.com">
+<img alt="" src="assets/mail.svg" width="24px" height="24px"/></img>
 </a>
 </span>
 </h3>
