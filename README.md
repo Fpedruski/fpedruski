@@ -1,6 +1,8 @@
 <h1 align="center">
-Hi There, ![](./assets/hello.gif)
+Hi There, 
 </h1>
+
+![](./assets/hello.gif)
 
 <h3 align="center">
 A passionate frontend developer from Brasil
@@ -46,7 +48,7 @@ Using at the moment to study :heart::
 [Odin Project](https://theodinproject.com) :tent:
 </h2>
 <h3 align="center">
-- 💬 Contact me for anything, i'm always happy to help    :smile:
+💬 Contact me for anything, i'm always happy to help    :smile:
 </h3>
 <h1 align="center">
                     📫 How to reach me: 
@@ -54,11 +56,12 @@ Using at the moment to study :heart::
 
 
 
-
-<span align="center">
+<h3 align="center">
+<span >
 <img alt="" src="assets/linkedin.svg" width="24x" height="24px"></img>
 <img alt="" src="assets/twitter.svg" width="24px" height="24px"/></img>
 </span>
+</h3>
 
 
 
