@@ -1,9 +1,9 @@
 <h1 align="center">Hi There, </h1>![Hello](/assets/hello.gif)
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
-<h1 align="center">
+<a align="center">
   <img alt="Working" title="Desk" src="/assets/frame1.png" width="220px" />
-</h1>
+</a>
 
 <h3 align="center">Pronouns: he/him</h3>
 
