@@ -7,7 +7,8 @@ A passionate frontend developer from Brasil
 </h3>
 
 <a align="center">
-  <img alt="Working" title="Desk" src="/assets/frame1.png" width="220px" />
+  <img alt="Working" title="Desk" src="/assets/frame1.png" width="220px">
+</img>
 </a>
 
 <h3 align="center">Pronouns: he/him</h3>
@@ -44,8 +45,9 @@ Using at the moment to study :heart::
 
 [Odin Project](https://theodinproject.com) :tent:
 </h2>
+<h3 align="center">
 - 💬 Contact me for anything, i'm always happy to help    :smile:
-
+</h3>
 <h1 align="center">
                     📫 How to reach me: 
 </h1>
