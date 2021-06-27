@@ -10,13 +10,13 @@ A passionate frontend developer from Brasil
 
 <!-- <h3 align="center">Pronouns: he/him</h3> -->
 
-<align align="center">
-<img alt="Working" title="Desk" src="/assets/z.gif" width="800px" height="400" />
+<align align="right">
+<img alt="Working" title="Desk" src="/assets/zz.gif" width="100%" height="100%" />
 </a>
 
 
 <h1 align="center">
-Found this ✨ _special_ ✨ place called coding 
+Found this ✨ special ✨ place called coding 
 </h1
 
 
@@ -81,8 +81,8 @@ Using at the moment to study :heart::
 
 </h1> -->
 
-<align align="center">
-<img alt="Working" title="Desk" src="/assets/bottom01.png" width="800px" height="400" />
+<align align="right">
+<img alt="Working" title="Desk" src="/assets/bottom.png" width="800px" height="800" />
 </a>
 
 
