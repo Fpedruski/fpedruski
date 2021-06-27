@@ -7,7 +7,7 @@ A passionate frontend developer from Brasil
 </h3>
 
 <align align="center">
-<img alt="Working" title="Desk" src="/assets/Frame1.png" width="950px" height="520" />
+<img alt="Working" title="Desk" src="/assets/Frame1.png" width="700px" height="400" />
 </a>
 
 <h3 align="center">Pronouns: he/him</h3>
