@@ -1,4 +1,4 @@
-<h1 align="center">Hi There, ![Hello](/assets/hello.gif)</h1>
+<h1 align="center">Hi There, </h1>![Hello](/assets/hello.gif)
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
 <h1 align="center">
@@ -44,17 +44,14 @@ Using at the moment to study :heart::
 - 📫 How to reach me: 
 </h1>
 
-<h1 align="center">
-  <img alt="Working" title="Desk" src="/assets/bottom.png" width="220px" />
 
-</h1>
 
-<span>
+
 <a align="center">
 <img alt="" src="assets/linkedin.svg" width="32px" height="32px"/>
 <img alt="" src="assets/twitter.svg" width="32px" height="32px"/>
 </a>
-</span>
+
 
 
 
