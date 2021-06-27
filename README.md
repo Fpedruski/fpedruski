@@ -30,7 +30,7 @@ Found this ✨ special ✨ place called coding
 
 📚 I'm also planning to study P5, Processing and Drawing.
 
-:planet: I have experience in Graphic Design, Marketing and a lot of travel.
+🌎 I have experience in Graphic Design, Marketing and a lot of travel.
 
 💬 In addition to web development, science and technology, I like to talk about arts and culture, especially music, movies, painting, travel and books.
 
