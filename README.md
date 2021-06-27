@@ -43,11 +43,11 @@ Using at the moment to study :heart::
 <img alt="Working" title="Desk" src="/assets/middle1.png" width="1240px" height="500" />
 </a> -->
 
-<img alt="" src="assets/rocketseat.png" width="24x" height="24px"></img>[RocketSeat](https://www.rocketseat.com.br) :rocket:
+<img alt="" src="assets/nlw.png" width="24x" height="24px"></img>  [RocketSeat](https://www.rocketseat.com.br) :rocket:
 
-<img alt="" src="assets/educativeio.png" width="24x" height="24px"></img>[Educative](https://educative.io) :books: 
+<img alt="" src="assets/educativeio.png" width="24x" height="24px"></img>  [Educative](https://educative.io) :books: 
 
-<img alt="" src="assets/odin.svg" width="24x" height="24px"></img>[Odin Project](https://theodinproject.com) :tent:
+<img alt="" src="assets/odin.svg" width="24x" height="24px"></img>  [Odin Project](https://theodinproject.com) :tent:
 </h2>
 <h3 align="center">
 💬 Contact me for anything, i'm always happy to help    :smile:
