@@ -5,7 +5,7 @@
 </h2>
 
 <h3 align="center">
-A passionate frontend developer from Brasil
+A passionate frontend developer from Brasil 🇧🇷
 </h3>
 
 <!-- <h3 align="center">Pronouns: he/him</h3> -->
@@ -43,11 +43,11 @@ Using at the moment to study :heart::
 <img alt="Working" title="Desk" src="/assets/middle1.png" width="1240px" height="500" />
 </a> -->
 
-[RocketSeat](https://www.rocketseat.com.br) :rocket:
+<img alt="" src="assets/rocketseat.png" width="24x" height="24px"></img>[RocketSeat](https://www.rocketseat.com.br) :rocket:
 
-[Educative](https://educative.com) :books: 
+<img alt="" src="assets/educativeio.png" width="24x" height="24px"></img>[Educative](https://educative.io) :books: 
 
-[Odin Project](https://theodinproject.com) :tent:
+<img alt="" src="assets/odin.svg" width="24x" height="24px"></img>[Odin Project](https://theodinproject.com) :tent:
 </h2>
 <h3 align="center">
 💬 Contact me for anything, i'm always happy to help    :smile:
