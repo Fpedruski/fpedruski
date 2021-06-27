@@ -1,15 +1,14 @@
 <h2 align="center">
-Hi There, <img src="/assets/hello.gif" width="24" height="24">
+ <img src="/assets/hello.gif" width="24" height="24"> Hi There, Forasteiro
 </h2>
 
 <h3 align="center">
 A passionate frontend developer from Brasil
 </h3>
 
-
-  <img alt="Working" title="Desk" src="./assets/frame1.png" width="220px" height="220" align="center"/>
-</img>
-
+<align align="center">
+<img alt="Working" title="Desk" src="./assets/frame1.png" width="220px" height="220" />
+</a>
 
 <h3 align="center">Pronouns: he/him</h3>
 
