@@ -1,5 +1,5 @@
 <align align="center">
-<img alt="Working" title="Desk" src="/assets/frame02.png" width="800px" height="400" />
+<img alt="Working" title="Desk" src="/assets/frame02.png" width="1240px" height="500" />
 </a>
 
 <h2 align="center">
