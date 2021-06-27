@@ -82,7 +82,7 @@ Using at the moment to study :heart::
 </h1> -->
 
 <align align="right">
-<img alt="Working" title="Desk" src="/assets/bottom.png" width="800px" height="800" />
+<img alt="Working" title="Desk" src="/assets/bottom02.png" width="100%" height="100%" />
 </a>
 
 
