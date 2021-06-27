@@ -8,10 +8,10 @@
 A passionate frontend developer from Brasil
 </h3>
 
-<h3 align="center">Pronouns: he/him</h3>
+<!-- <h3 align="center">Pronouns: he/him</h3> -->
 
 <align align="center">
-<img alt="Working" title="Desk" src="/assets/frame01.png" width="1240px" height="500" />
+<img alt="Working" title="Desk" src="/assets/frame001.png" width="1240px" height="500" />
 </a>
 
 
@@ -38,6 +38,10 @@ Found this ✨ _special_ ✨ place called coding
 
 Using at the moment to study :heart::
 <h2 align="center">
+
+<align align="center">
+<img alt="Working" title="Desk" src="/assets/middle1.png" width="1240px" height="500" />
+</a>
 
 [RocketSeat](https://www.rocketseat.com.br) :rocket:
 
@@ -71,10 +75,14 @@ Using at the moment to study :heart::
 
 
 
-<h1 align="center">
+<!-- <h1 align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpedruski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</h1>
+</h1> -->
+
+<align align="center">
+<img alt="Working" title="Desk" src="/assets/bottom01.png" width="1240px" height="500" />
+</a>
 
 
