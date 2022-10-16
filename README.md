@@ -60,11 +60,11 @@ Using at the moment to study :heart::
 <a href="https://www.linkedin.com/in/felipe-santos-poch-61226684/">
 <img alt="" src="assets/linkedin.svg" width="24x" height="24px"></img>
 </a> 
-<a mailto="fpedruski@icloud.com">
-<img alt="" src="assets/email.svg" width="24px" height="24px"/></img>
+<a href= "mailto:fpedruski@icloud.com">
+<img alt="Email me" src="assets/email.svg" width="24px" height="24px"/></img>
 </a>  
 <a href="https://twitter.com/FelipePedruski">
-<img alt="" src="assets/twitter.svg" width="24px" height="24px"/></img>
+<img alt="Twitter" src="assets/twitter.svg" width="24px" height="24px"/></img>
 </a>
 
 </span>
