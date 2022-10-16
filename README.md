@@ -63,7 +63,7 @@ Using at the moment to study :heart::
 <a mailto="fpedruski@icloud.com">
 <img alt="" src="assets/email.svg" width="24px" height="24px"/></img>
 </a>  
-<a href="https://twitter.com/Felipe-Pedruski">
+<a href="https://twitter.com/FelipePedruski">
 <img alt="" src="assets/twitter.svg" width="24px" height="24px"/></img>
 </a>
 
