@@ -16,7 +16,7 @@ A passionate frontend developer from Brasil 🇧🇷
 
 
 <h1 align="center">
-Found this ✨ special ✨ place called coding 
+ ✨  ✨ 
 </h1
 
 
