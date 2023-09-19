@@ -5,7 +5,7 @@
 </h2>
 
 <h3 align="center">
-A passionate frontend developer from Brasil 🇧🇷
+A passionate coder 🇧🇷
 </h3>
 
 <!-- <h3 align="center">Pronouns: he/him</h3> -->
