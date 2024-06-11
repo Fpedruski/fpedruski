@@ -1,85 +1,54 @@
-
-
 <h2 align="center">
- <img src="/assets/hello.gif" width="24" height="24"> Hi There, Forasteiro
+  <img src="/assets/hello.gif" width="24" height="24"> Hi There, Forasteiro
 </h2>
 
 <h3 align="center">
-A passionate coder 🇧🇷
+  A Passionate Coder from Brazil 🇧🇷
 </h3>
 
-<!-- <h3 align="center">Pronouns: he/him</h3> -->
+<div align="right">
+  <img alt="Working" title="Desk" src="/assets/zz.gif" width="100%" height="100%" />
+</div>
 
-<align align="right">
-<img alt="Working" title="Desk" src="/assets/zz.gif" width="100%" height="100%" />
-</a>
+<p align="center">💻 Front-End Developer with a knack for creating dynamic and user-friendly web applications.</p>
+<p align="center">🎓 Pursuing a degree in Computer Science to deepen technical expertise.</p>
+<p align="center">🔭 Actively freelancing and eager to tackle new and exciting projects.</p>
+<p align="center">📖 Currently mastering JavaScript, Tailwind, React, and UX/UI Design. Enhancing proficiency in Git/GitHub.</p>
+<p align="center">📚 Exploring creative coding with P5.js, Processing, and drawing techniques.</p>
+<p align="center">🌎 Experienced in Graphic Design and Marketing, with a passion for travel and cultural experiences.</p>
 
+<h2 align="center">📚 Learning Platforms</h2>
 
-<h1 align="center">
+<p align="center">
+  <a href="https://www.rocketseat.com.br">
+    <img alt="RocketSeat" src="assets/nlw.png" width="24px" height="24px"> RocketSeat :rocket:
+  </a>
+  <br>
+  <a href="https://educative.io">
+    <img alt="Educative" src="assets/educativeio.png" width="24px" height="24px"> Educative
+  </a>
+  <br>
+  <a href="https://theodinproject.com">
+    <img alt="Odin Project" src="assets/odin.svg" width="24px" height="24px"> Odin Project
+  </a>
+</p>
 
-</h1
+<h3 align="center">💬 Feel free to reach out for collaboration or if you need any assistance. I'm always happy to help 😊</h3>
 
+<h1 align="center">📯 How to Reach Me:</h1>
 
-💻 I'm a Front-End Developer from Brazil.
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipe-santos-poch-61226684/">
+    <img alt="LinkedIn" src="assets/linkedin.svg" width="24px" height="24px">
+  </a> 
+  <a href="mailto:fpedruski@icloud.com">
+    <img alt="Email me" src="assets/email.svg" width="24px" height="24px">
+  </a>  
+  <a href="https://twitter.com/FelipePedruski">
+    <img alt="Twitter" src="assets/twitter.svg" width="24px" height="24px">
+  </a>
+</p>
 
-🎓 At the moment studying to complete my degree in Computer Science.
-
-🔭 I’m currently working as freelancer and I'm very hyped to restart my programming life.
-
-📖 I'm currently learning Javascript, Tailwind, React and UX/UI Design, besides expanding my knowledge on Git/Github.
-
-📚 I'm also planning to study P5, Processing and Drawing.
-
-🌎 I have experience in Graphic Design, Marketing and a lot of travel.
- 
- 
-Using at the moment to study :heart::
-<h2 align="center">
-
-<!-- <align align="center">
-<img alt="Working" title="Desk" src="/assets/middle1.png" width="1240px" height="500" />
-</a> -->
-
-<img alt="" src="assets/nlw.png" width="24x" height="24px"></img>  [RocketSeat](https://www.rocketseat.com.br) :rocket:
-
-<img alt="" src="assets/educativeio.png" width="24x" height="24px"></img>  [Educative](https://educative.io) <!-- :books: -->
-
-<img alt="" src="assets/odin.svg" width="24x" height="24px"></img> [Odin Project](https://theodinproject.com)  <!-- :tent: -->
-</h2>
-<h3 align="center">
-💬 Contact me for anything, i'm always happy to help    :smile:
-</h3>
-<h1 align="center">
-                   📯 How to reach me: 
-</h1>
-
-
-
-<h3 align="center">
-<span >
-<a href="https://www.linkedin.com/in/felipe-santos-poch-61226684/">
-<img alt="" src="assets/linkedin.svg" width="24x" height="24px"></img>
-</a> 
-<a href= "mailto:fpedruski@icloud.com">
-<img alt="Email me" src="assets/email.svg" width="24px" height="24px"/></img>
-</a>  
-<a href="https://twitter.com/FelipePedruski">
-<img alt="Twitter" src="assets/twitter.svg" width="24px" height="24px"/></img>
-</a>
-
-</span>
-</h3>
-
-
-
-<!-- <h1 align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpedruski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</h1> -->
-
-<align align="right">
-<img alt="Working" title="Desk" src="/assets/bottom02.png" width="100%" height="100%" />
-</a>
-
-
+<div align="right">
+  <img alt="Working" title="Desk" src="/assets/bottom02.png" width="100%" height="100%" />
+</div>
